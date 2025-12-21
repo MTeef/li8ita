@@ -1,1 +1,1 @@
-look at the releases for the .aab file to download
+Go to releases page for the .aab/apk files.
